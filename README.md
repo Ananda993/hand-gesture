@@ -85,7 +85,3 @@ python main.py
 * Bisa tambahkan screenshot atau GIF gameplay di bagian preview.
 
 ---
-
-## 📸 Preview
-
-*(Tambahkan screenshot/gif hasil game di sini jika t
